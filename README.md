@@ -1,16 +1,13 @@
-### Hi there 👋 I'm Dhruv – a Data Science undergrad from IIT Madras
+<h1 align="center"> Hi ,👋 I'm Dhruv – a Data Science undergrad from IIT Madras </h1>
 
-🎓 I'm currently pursuing a **BS in Data Science** at **IIT Madras**. I’m passionate about combining **machine learning**, **data analysis**, and **web development** to build real-world, impactful applications.
+<h3 align="center">🎓 Currently pursuing a **Bachelors in Data Science** at **IIT MADRAS** , and **Automation and Robotics Engineering** at GGSIPU , Delhi .</h3>
 
 ---
 
-### 🔍 Interests
-- 🧠 Machine Learning & Data Science
-- ⚙️ Python libraries: NumPy, Pandas, Scikit-learn
-- 🌐 Backend development with Flask
-- 🗄️ Databases and DBMS concepts
-- 📊 Data visualization & insights
-- 🛠️ Real-world projects like **QuizMaster** and **LSTM-based time series models**
+ 🔭 I’m currently working on: `Quiz Master - V2`, `BDM Project`, and an **LLM Automation Agent**  
+- 🌱 I’m learning: `Machine Learning`, `VueJS`, `Docker`, `Celery`, `SQL Optimization`  
+- 💬 Ask me about: `Python`, `Flask`, `Git`, `SQL`, `APIs`, , `EDA`, `CI/CD`,`FastAPI`,`Numpy`,`Pandas`
+- 📫 Reach me at: **dhruvdhruv554@gmail.com**  
 
 ---
 
@@ -27,6 +24,7 @@
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=22f3002319&show_icons=true&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=saritakumari23&theme=tokyonight" alt="GitHub Streak" />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=22f3002319&layout=compact&theme=radical)
 
 ---
