@@ -1,6 +1,6 @@
 <h1 align="center"> Hi ,👋 I'm Dhruv – a Data Science undergrad from IIT Madras </h1>
 
-<h3 align="center">🎓 Currently pursuing a **Bachelors in Data Science** at **IIT MADRAS** , and **Automation and Robotics Engineering** at GGSIPU , Delhi .</h3>
+<h3 align="center">🎓 Currently pursuing a Bachelors in Data Science at IIT MADRAS , and Automation and Robotics Engineering at GGSIPU , Delhi .</h3>
 
 ---
 
@@ -24,14 +24,13 @@
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=22f3002319&show_icons=true&theme=radical)
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saritakumari23&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=22f3002319&theme=tokyonight" alt="GitHub Streak" />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=22f3002319&layout=compact&theme=radical)
 
 ---
 
 ### 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/dhruv-b29720211/)
-- 📧 Email: *[your email here]*
 
 ---
 
